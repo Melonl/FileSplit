@@ -154,8 +154,8 @@ int main(int argc, char **argv)
 
     int opt;
     cout << "What do you want to do:" << endl
-         << "1. Spliting file." << endl
-         << "2. Merging files." << endl
+         << "1. Split file." << endl
+         << "2. Merge file." << endl
          << "3. Exit." << endl
          << "Your option: " << endl;
     cin >> opt;
